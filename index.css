@@ -1,0 +1,662 @@
+.header p{
+  display: inline-block;
+  margin: 0px;
+  vertical-align: text-bottom;
+}
+
+.header a{
+  display: inline-block;
+  vertical-align: text-bottom;
+  float: right;
+  text-decoration: none;
+  color:  #FFFFFF;
+  background-color: #da6b64;
+  padding: 11px 50px;
+  border-radius: 25px;
+  margin-right: 100px;
+}
+
+.header{
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header a:hover{
+  background-color: red;
+}
+
+.main{
+  background-image: url(https://isara.life/wp-content/themes/isara_v2/img/main.jpg);
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.main2{
+  padding-top: 100px;
+}
+
+.skl{
+  background-color: #EBB94D;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.skls{
+  color: #FFFFFF;
+  font-size: 21px;
+  line-height: 34px;
+}
+
+.mozi{
+  background-color: #FFFFFF;
+  color: #DA6B64;
+  width: 524px;
+  margin: auto;
+
+}
+
+.btn a{
+  text-decoration: none;
+  color:  #FFFFFF;
+  background-color: #da6b64;
+  border-radius: 60px;
+  font-size: 26px;
+  padding: 45px 350px;
+  font-weight: 600;
+}
+
+.btn a:hover{
+  background-color: red;
+}
+
+.skl2{
+  font-size: 20px;
+padding-top: 35px;
+
+}
+
+.btn{
+  padding-bottom: 110px;
+  padding-top: 110px;
+}
+
+.skl p{
+  font-weight: 600;
+}
+
+.free{
+  background-image: url(https://isara.life/wp-content/themes/isara_v2/img/introbottom.jpg);
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+.free2{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.free3 p{
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 32px;
+}
+
+.kouza{
+  background-color: #FEF5E0;
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.kouza2{
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+
+.kouza3 p{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.kouza4 p{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.phon{
+  display: inline-block;
+  margin-left: 40px;
+}
+
+.kouza5{
+  border: 2px solid #EBB94D;
+  background-color :#FFFFFF;
+  margin-left: 90px;
+  margin-right: 90px;
+  padding-bottom: 40px;
+  padding-top: 25px;
+
+}
+
+.texts{
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.osienai{
+  background-image: url(https://isara.life/wp-content/themes/isara_v2/img/aboutsecondbg.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+.osienai{
+  color: #FFFFFF;
+  padding-top: 45px;
+  padding-bottom: 80px;
+
+}
+
+.osienai3{
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 40px;
+}
+
+.step{
+  height: 175px;
+  width: 375px;
+  background-color: #FFFFFF;
+  padding-top: 30px;
+padding-bottom: 35px;
+display: inline-block;
+border-radius: 25px;
+}
+
+.steptx {
+background-color: #EBB94D;
+width: 315px;
+margin-left: 30px;
+font-size: 16px;
+font-weight: 600;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 5px;
+}
+
+.steptx2{
+  color: #333333;
+  padding-top: 30px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 35px;
+  letter-spacing: 5px;
+}
+
+.muzui{
+  background-color: #016EA9;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 32px;
+  font-weight: 600;
+  color: #FFFFFF;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+.muzui span{
+  color: #EBB94D;
+}
+
+.ablt{
+text-align: center;
+padding-bottom: 45px;
+}
+
+.ablt2{
+  font-size: 28px;
+  font-weight: 600;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+.ablt3{
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.tikara{
+  letter-spacing: 30px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.ab{
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.merito{
+text-align: center;
+background-color: #FEF5E0;
+}
+
+.merito2{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+
+.tigau{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.mittu{
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.mana{
+  font-size: 20px;
+  font-weight: 700;
+}
+.beru{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.gaku span{
+  color: #EBB94D;
+}
+
+.gaku{
+  text-align: left;
+  text-align: center;
+}
+
+.manaberu p{
+  text-align: left;
+}
+
+.manaberu{
+  display: inline-block;
+  vertical-align: top;
+  padding: 15px;
+}
+
+.mana span{
+  color: #EBB94D;
+}
+
+.sarani{
+  border: 2px solid #EBB94D;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  margin-left: 95px;
+  margin-right: 95px;
+  margin-top: 55px;
+  padding-bottom: 40px;
+}
+
+.dekai{
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.dekai span{
+  color: #EBB94D;
+}
+
+.naka{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.tii{
+  font-size: 16px;
+  font-weight: 600px;
+  line-height: 26px;
+}
+
+.chui2{
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 22px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+.sougyou{
+  background-image: url(https://isara.life/wp-content/themes/isara_v2/img/teacherbg.jpg);
+  background-size: cover;
+text-align: center;
+  padding-top: -600px;
+  width: 100%;
+
+}
+
+
+
+
+.sougyou p{
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.tatiage2{
+  font-size: 28px;
+  font-weight: 600;
+
+}
+
+.tatiage3{
+  font-size: 16px;
+  font-weight: 600px;
+  padding-bottom: 200px;
+}
+
+.kousi{
+  border: 3px solid #FFFFFF;
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 50px;
+}
+
+.kousi2{
+  padding-top: 35px;
+  margin: 0px;
+
+}
+
+.kousi3{
+  margin: 0px;
+}
+
+.hito{
+  border-radius: 50%;
+  position: relative;
+  top: -300px;
+  left: 290px;
+
+}
+.hito2{
+  border-radius: 50%;
+  position: relative;
+}
+
+.kousia{
+  display: inline-block;
+  border: 3px solid #FFFFFF;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 50px;
+  margin-right: 30px;
+
+}
+
+.matomari{
+  padding-bottom: 40px;
+}
+
+
+
+.honto{
+  background-color: #EBB94D;
+  text-align:center;
+  padding-top: 40px;
+}
+
+.kuesu{
+  background-color:  #FFFFFF;
+  color: #EBB94D;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  margin: auto;
+
+}
+
+.kuesu p{
+  line-height: 80px;
+}
+
+.kanou{
+  color: #FFFFFF;
+  font-size: 28px;
+  font-weight: 600px;
+  padding-bottom: 60px;
+}
+
+.shouko{
+  padding-bottom: 20px;
+}
+
+
+
+
+.a{
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.b{
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 25px;
+}
+
+.c{
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.shouko2{
+  text-align: center;
+
+}
+
+.yoko p{
+display: inline-block;
+vertical-align: top;
+font-size: 18px;
+font-weight: 400;
+line-height: 29px;
+}
+
+.yoko img{
+  margin-left: 280px;
+  border: 1px solid #EBB94D;
+  padding-bottom: 20px;
+}
+
+.nai{
+  background-image: url(https://isara.life/wp-content/themes/isara_v2/img/classbg.jpg);
+  background-size: cover;
+  padding-bottom: 80px;
+}
+
+.you{
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.you2{
+  font-size: 28px;
+  font-weight: 600;
+  padding-top: 60px;
+}
+
+.you3{
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 55px;
+}
+
+.hyou{
+  text-align: center;
+
+}
+
+.ao{
+color: #FFFFFF;
+background-color: #016EA9;
+font-size: 20px;
+font-weight: 600;
+  padding: 25px 109px;
+  display: inline-block;
+  margin-top: -1px;
+  margin-left: -60px;
+  margin-right: -60px;
+}
+
+.siro{
+  background-color:  #FFFFFF;
+  display: inline-block;
+  width: 375px;
+  height: 536px;
+  border: 1px solid #016EA9;
+
+}
+
+.siro p{
+  border-bottom: dotted 2px #E5E5E5;
+}
+
+.omake{
+  background-color: #016EA9;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.omake p{
+  font-size: 20px;
+  font-weight: 600px;
+  line-height: 32px;
+}
+
+.nagare{
+
+}
+
+.setu p{
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.setu2{
+  padding-bottom: 35px;
+  text-align: center;
+}
+
+.skyp{
+  display: inline-block;
+}
+
+.bannkoku{
+  background-image: url(https://isara.life/wp-content/themes/isara_v2/img/bangkokbg.jpg);
+  background-size: cover;
+}
+
+.bannkoku p{
+  color: #FFFFFF;
+  margin-left: 100px;
+}
+
+.ban{
+  font-weight: 600;
+  font-size: 24px;
+  padding-top: 100px;
+}
+
+.ba2{
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.ban3{
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.ban4{
+  font-size: 20px;
+  font-weight: 600px;
+  padding-bottom: 100px;
+}
+
+.tokuten{
+  background-color: #F7C23C;
+  text-align: center;
+  padding-top: 65px;
+  padding-bottom: 40px;
+}
+
+.sannka{
+  font-size: 28px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+
+.zero{
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 25px;
+}
+
+.zeroen{
+  font-size: 28px;
+  font-weight: 600;
+
+}
+
+.zeroen p{
+  background-color: #F7C23C;
+  position: relative;
+  top: 50px;
+  width: 580px;
+  left: 390px;
+}
+
+
+
+.toku{
+  display: inline-block;
+  vertical-align: top;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  margin: 30px;
+}
+
+.toku span{
+  color: #F7C23C;
+  font-size: 24px;
+  font-weight: 300px;
+  line-height: 38px;
+}
+
+.koko{
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+}
+
+.tokul{
+  border: 2px solid  #FFFFFF;
+  margin-left: 90px;
+  margin-right: 90px;
+  padding-bottom: 55px;
+  padding-top: 50px;
+}
